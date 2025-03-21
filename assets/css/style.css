@@ -29368,6 +29368,12 @@ body.servi-ce-details .rts-footer-two-area {
   }
 }
 
+@media (max-width: 768px) { /* Adjust breakpoint as needed */
+  #loading-screen .loading-counter {
+      font-size: 16px; /* Set an appropriate font size for mobile */
+  }
+}
+
 
 
 /*# sourceMappingURL=../maps/style.css.map */
